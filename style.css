@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+}
+
+#header{
+font-size: 23px;
+margin: 0px;
+width: 100%;
+}
+#note{
+    margin: 5px;
+    font-size: 18px;
+width: 100%;
+}
+
+#start,#nobjects,#status{
+    font-size: 18px;
+}
+
+.footer{
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+background-color: grey;
+color: whitesmoke;
+line-height: 2;
+text-align: center;
+}
+
+canvas{
+    margin-top: 95px;
+    border-radius: 10px;
+    border:2px solid whitesmoke;
+    box-shadow: 5px 5px 5px whitesmoke;
+}
